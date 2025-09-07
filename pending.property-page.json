@@ -11,13 +11,13 @@
     {
       "type": "CNAME",
       "host": "www",
-      "pointsTo": "d1234567890.cloudfront.net",
+      "pointsTo": "d269thkyr6dwzy.cloudfront.net",
       "ttl": 3600
     },
     {
       "type": "CNAME",
       "host": "@",
-      "pointsTo": "d1234567890.cloudfront.net",
+      "pointsTo": "d269thkyr6dwzy.cloudfront.net",
       "ttl": 3600
     }
   ],
